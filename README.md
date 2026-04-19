@@ -26,7 +26,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/cce760a70f0947c088f69b46e3fe650c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/cce760a70f0947c088f69b46e3fe650c">
+      <p>Project 6 - Translate Me - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/cce760a70f0947c088f69b46e3fe650c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cce760a70f0947c088f69b46e3fe650c-7dae2f7f231e9221-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 ## Notes
 
